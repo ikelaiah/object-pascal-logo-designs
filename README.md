@@ -9,5 +9,7 @@ A collection of logo designs relating to Object Pascal, Free Pascal and Lazarus 
 
 ## Lazarus IDE and Free Pascal
 
+![objectpascal-fpc-logo.png](objectpascal-fpc-logo.png)
+
 ![fpc-lazarus-961785106.png](fpc-lazarus-961785106.png)
 Currently, this is the logo for https://github.com/ikelaiah/free-pascal-snippets.
